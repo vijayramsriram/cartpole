@@ -21,7 +21,7 @@ A GPU-accelerated implementation of Twin Delayed Deep Deterministic Policy Gradi
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/vijayramsriram/cartpole.git)>
 cd <repository-name>
 ```
 
