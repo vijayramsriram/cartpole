@@ -117,6 +117,10 @@ Expected performance on InvertedPendulum-v4:
 - Training reward (final 10 episodes): ~900-1000
 - Evaluation reward: ~950-1000
 
+### Sample Learning Curve
+
+![Learning Curve](https://github.com/vijayramsriram/cartpole/blob/main/results/learning_curve.png)
+
 ## GPU Requirements
 
 This implementation requires a CUDA-capable GPU. The script will raise an error if CUDA is not available.
