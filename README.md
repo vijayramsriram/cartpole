@@ -181,11 +181,6 @@ python -c "import torch; print(torch.cuda.is_available())"
 - Use `--no-render` flag for headless environments
 - Check gymnasium rendering dependencies
 
-## Academic Context
-
-This implementation was developed as part of EEE598: Reinforcement Learning in Robotics at Arizona State University. The project demonstrates the application of TD3 algorithm to continuous control tasks with emphasis on reproducibility and clarity.
-
-## License
 
 MIT License
 
